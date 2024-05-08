@@ -1,0 +1,65 @@
+
+  create or replace   view "HACKATHON"."TEAM_03"."PIZZA_CUSTOMERS"
+  
+   as (
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    SELECT *
+FROM HACKATHON.DATA_SAMPLE.PIZZA_CUSTOMERS
+  );
+
